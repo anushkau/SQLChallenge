@@ -1,6 +1,6 @@
 # SQLChallenge
 
-This repo hosts my solutions to SQL case studies from Data With Danny. Shoutout to Danny Ma for these insightful challenges! 👋🏻
+This repository has my solutions to SQL case studies from Data With Danny. Shoutout to Danny Ma for these insightful challenges! 👋🏻
 
 Each folder includes:
 - README: Problem statement & datasets
